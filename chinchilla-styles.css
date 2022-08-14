@@ -37,15 +37,15 @@
     font-size: 16px;
     line-height: 30px;
   }
-  
+
   .content-container {
     padding: 50px 20px;
   }
   
   .content h1 {
     font-size: 50px;
-    line-height: 80px;
-    font-style: italic;
+    line-height: 60px;
+    font-style: bold;
     font-weight: 900;
   }
   
